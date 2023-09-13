@@ -1,0 +1,17 @@
+const movies = [
+  "grown ups",
+  "grown ups 2",
+  "the assasin's bodyguard",
+  "wally",
+  "honor among thieves",
+  "50 first dates",
+  "scary movie",
+  "masterminds",
+  "rocky",
+  "rambo",
+  "captain america",
+  "guardians of the galaxy",
+  "along came polly",
+  "snatch",
+  "pretty woman",
+];
